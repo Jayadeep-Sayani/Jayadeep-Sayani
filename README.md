@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Jayadeep-Sayani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Jay 👋
+> Engineering student. Builder. Professional overthinker.
 
-<!---
-Jayadeep-Sayani/Jayadeep-Sayani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## whoami
+
+```bash
+> name
+Jay
+
+> location
+Victoria, BC
+
+> current_focus
+Shipping real projects. Not tutorial clones.
+
+> caffeine_level
+unstable
