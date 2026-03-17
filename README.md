@@ -1,106 +1,208 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Jay&fontSize=48&fontColor=fff&animation=fadeIn" width="100%"/>
+  <!-- Gradient title with glow -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=4000&pause=2000&color=6366F1&center=true&vCenter=true&width=500&repeat=true&random=false&lines=Hey%2C+I'm+Jay+%F0%9F%91%8B;Builder+%C2%B7+Student+%C2%B7+Overthinker" alt="Typing SVG" />
 
-### **Engineering student · Builder · Professional overthinker**
+  <br/>
+  <br/>
 
-*Shipping real projects. Not tutorial clones.*
+  <img src="https://img.shields.io/badge/Victoria%2C%20BC-%F0%9F%8C%9D-6366f1?style=for-the-badge&labelColor=1e1b4b" alt="Location"/>
+  <img src="https://img.shields.io/badge/Status-Shipping%20real%20projects-6366f1?style=for-the-badge&labelColor=1e1b4b" alt="Status"/>
+  <img src="https://img.shields.io/badge/Caffeine-Unstable%20%F0%9F%8D%B5-6366f1?style=for-the-badge&labelColor=1e1b4b" alt="Caffeine"/>
 
-<br/>
+  <br/>
+  <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Victoria%2C+BC+%F0%9F%8C%9D;caffeine_level%3A+unstable;always+building+something)](https://git.io/typing-svg)
+  *"Not tutorial clones. Real stuff."*
+
+  <br/>
+
+  <!-- Visitor & profile views -->
+  <img src="https://komarev.com/ghpvc/?username=Jayadeep-Sayani&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Jayadeep-Sayani?style=for-the-badge&color=6366f1&label=Followers" alt="Followers"/>
 
 </div>
 
----
-
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28"/> whoami
+<!-- Wavy divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2"/>
+
+<br/>
+<br/>
+
+## <kbd>⌘</kbd> whoami
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist%20Light%20Skin%20Tone.png" width="24"/> Terminal output
 
 ```bash
 $ whoami
-> name .............. Jay
-> location .......... Victoria, BC 🇨🇦
-> status ............ Building & learning
-> focus ............. Real projects, not tutorial clones
-> caffeine_level .... unstable ☕
-> fun_fact .......... Professional overthinker
+╭─────────────────────────────────────────╮
+│  name .............. Jay                │
+│  location .......... Victoria, BC 🇨🇦   │
+│  status ............ Building & learn  │
+│  focus ............. Real projects      │
+│  caffeine_level .... unstable ☕        │
+│  fun_fact .......... Overthinker pro    │
+╰─────────────────────────────────────────╯
 ```
 
 </td>
-<td width="50%">
+<td width="45%">
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" width="24"/> Stats at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayadeep-Sayani&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayadeep-Sayani&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f23&title_color=6366f1&icon_color=a78bfa&include_all_commits=true&count_private=true" height="180"/>
 </p>
 
 </td>
 </tr>
 </table>
 
----
-
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28"/> tech stack
-
-### Languages & markup
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Frameworks & libraries
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-### Tools & platforms
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
----
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" width="28"/> GitHub stats
-
+<!-- Quote -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayadeep-Sayani&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayadeep-Sayani&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1" height="150"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" alt="Random dev quote"/>
 
 </div>
 
----
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2"/>
+
+<br/>
+<br/>
+
+## <kbd>⚡</kbd> tech stack
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+#### 🗣️ Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css" alt="Languages"/>
+
+</td>
+<td align="center" width="33%">
+
+#### 🛠️ Frameworks & tools
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,git" alt="Frameworks"/>
+
+</td>
+<td align="center" width="33%">
+
+#### ☁️ Platforms & more
+
+<img src="https://skillicons.dev/icons?i=vscode,github,vercel,figma" alt="Tools"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-### **Let's connect**
+*Also dabbling in:*
+
+<img src="https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=fff&color=ce422b" alt="Rust"/>
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+</div>
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2"/>
+
+<br/>
+<br/>
+
+## <kbd>🏆</kbd> trophies & streak
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jayadeep-Sayani&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayadeep-Sayani&theme=radical&hide_border=true&background=0f0f23&ring=6366f1&fire=6366f1&currStreakLabel=a78bfa" height="160"/>
+
+</div>
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2"/>
+
+<br/>
+<br/>
+
+## <kbd>📊</kbd> activity & languages
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayadeep-Sayani&theme=react-dark&hide_border=true&bg_color=0f0f23&color=6366f1&line=a78bfa&point=ffffff" width="95%" alt="Activity graph"/>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayadeep-Sayani&layout=compact&theme=radical&hide_border=true&bg_color=0f0f23&title_color=6366f1&langs_count=8" height="180"/>
+
+</div>
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2"/>
+
+<br/>
+<br/>
+
+## <kbd>🐍</kbd> contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jayadeep-Sayani/Jayadeep-Sayani/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" width="100%"/>
+</p>
+
+<details>
+<summary>How to enable the snake</summary>
+
+Add the [Platane/snk](https://github.com/Platane/snk) workflow to your repo (Actions → New workflow → set up yourself, or use the workflow from the snk repo). It will generate the SVG and the snake will appear above.
+
+</details>
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2"/>
+
+<br/>
+<br/>
+
+## <kbd>📬</kbd> let's connect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayadeep-sayani)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=link&logoColor=white)](https://)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" width="100%"/>
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer&fontSize=20&fontColor=fff" width="100%"/>
 
 </div>
